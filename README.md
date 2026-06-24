@@ -36,6 +36,7 @@ An AI-powered Interview Trainer Agent built using IBM watsonx.ai and RAG (Retrie
 1. Clone the repo:
 ```bash
 git clone https://github.com/Prem-0007/IBM_PROJECT_PREM.git
+cd IBM_PROJECT_PREM
 ```
 
 2. Install dependencies:
@@ -56,7 +57,7 @@ python -m streamlit run interview_trainer_app.py
 ---
 
 ## 📁 Project Structure
-interview-trainer-agent/
+IBM_PROJECT_PREM/
 
 ├── interview_trainer_app.py   # Main app
 
@@ -66,16 +67,6 @@ interview-trainer-agent/
 
 └── README.md                  # Documentation
 
----
 
-## 👨‍💻 Team
-- Team Member 1
-- Team Member 2
-- Team Member 3
-
-## 🏫 Institution
-Your College Name
-
----
 
 *Built with ❤️ using IBM watsonx.ai | AICTE 2026 IBM SkillsBuild*
