@@ -1,0 +1,6 @@
+streamlit
+ibm-watsonx-ai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+python-dotenv
