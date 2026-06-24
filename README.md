@@ -35,8 +35,7 @@ An AI-powered Interview Trainer Agent built using IBM watsonx.ai and RAG (Retrie
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/interview-trainer-agent.git
-cd interview-trainer-agent
+git clone https://github.com/Prem-0007/IBM_PROJECT_PREM.git
 ```
 
 2. Install dependencies:
