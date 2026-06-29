@@ -1,4 +1,4 @@
-# 🎯 Interview Trainer Agent hahhaha
+# 🎯 Interview Trainer Agent hahhah
 ### IBM SkillsBuild AICTE 2026 | Problem Statement No. 22
 
 An AI-powered Interview Trainer Agent built using IBM watsonx.ai and RAG (Retrieval-Augmented Generation) that helps students and job seekers prepare for interviews.
